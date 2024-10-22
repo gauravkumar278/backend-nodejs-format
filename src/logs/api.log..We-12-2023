@@ -1,0 +1,2 @@
+{"level":"info","message":"[ 12-06 09:03:36.194 ] server ::: server.js ::: \"Listening to port 5001\"\n"}
+{"level":"info","message":"[ 12-06 09:03:44.550 ] users ::: signup ::: {\"REQUEST_BODY\":{\"name\":\"Gaurav\",\"email\":\"test@gmail.com\",\"password\":\"wss33333\",\"role\":\"USER\"}}\n"}
